@@ -1286,83 +1286,83 @@
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="92.447357" atv="28.723891" distorted="true" rx="-2.75" ry="14.75" rz="-2.551464" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1269_Panorama" linkedscene_lookat="208.0, 0.0, 120.0" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="-1.147147" atv="28.715215" distorted="true" rx="8.25" ry="5.25" rz="1.811875" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1297_Panorama" />
 		
-		<hotspot name="hs1" url="%SWFPATH%/images/photographie/01IMG_1495.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Photographie/01IMG_1495.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="141.618856" atv="-1.061411" distorted="true" rx="-1.0375" ry="-49.9125" rz="0.078198" width="861" height="768" scale="0.112151" 
 	         />
 			 
-		<hotspot name="hs2" url="%SWFPATH%/images/photographie/01IMG_1495D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Photographie/01IMG_1495D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="138.708633" atv="8.964961" distorted="true" rx="6.0" ry="-50.0" rz="-1.788418" width="804" height="768" scale="0.044131" 
 	         />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/photographie/43IMG_1496.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Photographie/43IMG_1496.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="148.956716" atv="-0.954252" distorted="true" rx="-1.5" ry="-57.25" rz="0.633086" width="842" height="768" scale="0.071598" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/photographie/43IMG_1496D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Photographie/43IMG_1496D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="147.365289" atv="8.69219" distorted="true" rx="7.75" ry="-60.25" rz="0.443439" width="471" height="768" scale="0.068792" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/photographie/02IMG_1497.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Photographie/02IMG_1497.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="173.225215" atv="-0.76655" distorted="true" rx="4.0" ry="1.75" rz="0.702516" width="599" height="768" scale="0.067296" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/photographie/02IMG_1497D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Photographie/02IMG_1497D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="172.205171" atv="6.953134" distorted="true" rx="-23.0" ry="-3.25" rz="0.224205" width="762" height="768" scale="0.035178" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/photographie/03IMG_1499.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Photographie/03IMG_1499.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="167.229283" atv="-0.744999" distorted="true" rx="-2.75" ry="16.75" rz="0.013664" width="606" height="768" scale="0.067229" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/photographie/04IMG_1497.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Photographie/04IMG_1497.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="160.489993" atv="6.532153" distorted="true" rx="13.25" ry="10.0" rz="0.502188" width="763" height="768" scale="0.031674" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/photographie/03IMG_1497.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Photographie/03IMG_1497.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="166.230583" atv="6.778986" distorted="true" rx="-2.0" ry="2.0" rz="0.617775" width="765" height="768" scale="0.032184" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/photographie/04IMG_1500.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Photographie/04IMG_1500.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="161.460648" atv="-0.792024" distorted="true" rx="-0.5" ry="21.5" rz="0.590859" width="627" height="768" scale="0.062125" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/photographie/05IMG_1502.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Photographie/05IMG_1502.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="184.803443" atv="-0.694356" distorted="true" rx="0" ry="-3.5" rz="0.217184" width="650" height="768" scale="0.105412" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/photographie/05IMG_1502D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Photographie/05IMG_1502D.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="181.985318" atv="8.433844" distorted="true" rx="3.25" ry="-3.25" rz="-0.228173" width="428" height="768" scale="0.062937" 
 				 />
 
-		<hotspot name="hs13" url="%SWFPATH%/images/photographie/06IMG_1505.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs13" url="%SWFPATH%/images/Photographie/06IMG_1505.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="198.069569" atv="-0.634432" distorted="true" rx="-7.025" ry="-14.8875" rz="-0.306193" width="751" height="768" scale="0.089118" 
 				 />
 
-		<hotspot name="hs14" url="%SWFPATH%/images/photographie/06IMG_1504.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs14" url="%SWFPATH%/images/Photographie/06IMG_1504.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="194.821357" atv="6.871241" distorted="true" rx="0.5" ry="-25.0" rz="-0.151095" width="821" height="768" scale="0.033297" 
 				 />
 
-		<hotspot name="hs15" url="%SWFPATH%/images/photographie/07IMG_1506.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs15" url="%SWFPATH%/images/Photographie/07IMG_1506.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="213.662714" atv="-0.701464" distorted="true" rx="-1.5" ry="54.25" rz="0.487346" width="860" height="768" scale="0.106684" 
 				 />
 
-		<hotspot name="hs16" url="%SWFPATH%/images/photographie/07IMG_1507.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs16" url="%SWFPATH%/images/Photographie/07IMG_1507.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="211.461128" atv="6.972628" distorted="true" rx="5.75" ry="63.0" rz="0.409433" width="775" height="768" scale="0.039424" 
 				 />
 
-		<hotspot name="hs17" url="%SWFPATH%/images/photographie/08IMG_1509.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs17" url="%SWFPATH%/images/Photographie/08IMG_1509.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="221.821209" atv="-0.812064" distorted="true" rx="-2.0" ry="53.5" rz="-0.077234" width="684" height="768" scale="0.133989" 
 				 />
 
-		<hotspot name="hs18" url="%SWFPATH%/images/photographie/08IMG_1510.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs18" url="%SWFPATH%/images/Photographie/08IMG_1510.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="219.986646" atv="10.284628" distorted="true" rx="7.25" ry="52.75" rz="0.897343" width="415" height="768" scale="0.080965" 
 				 />
 
-		<hotspot name="hs19" url="%SWFPATH%/images/photographie/31IMG_1541.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs19" url="%SWFPATH%/images/Photographie/31IMG_1541.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-45.709628" atv="-1.207638" distorted="true" rx="-0.25" ry="-45.25" rz="0.268945" width="645" height="768" scale="0.140153" 
 				 />
 
-		<hotspot name="hs20" url="%SWFPATH%/images/photographie/31IMG_1542.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs20" url="%SWFPATH%/images/Photographie/31IMG_1542.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-48.635794" atv="11.05607" distorted="true" rx="8.25" ry="-47.75" rz="0.325609" width="448" height="768" scale="0.088585" 
 				 />
 	
@@ -1381,55 +1381,55 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-0.248055" atv="28.423226" distorted="true" rx="-11.5" ry="21.5" rz="1.89724" edge="top" oy="0" width="128" height="112" scale="0.784367" linkedscene="scene_IMG_1290_Panorama" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="182.893445" atv="28.944897" distorted="true" rx="-5.25" ry="14.0" rz="-2.582762" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1276_Panorama" linkedscene_lookat="90.0, 0.0, 120.0" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/photographie/25IMG_1535.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Photographie/25IMG_1535.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="110.274286" atv="33.654894" distorted="true" rx="-50.0" ry="-24.5" rz="-31.354062" width="907" height="768" scale="0.148518" 
 	         />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/photographie/28IMG_1538.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Photographie/28IMG_1538.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="82.817403" atv="35.085785" distorted="true" rx="-53.75" ry="5.75" rz="8.656768" width="1194" height="768" scale="0.039503" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/photographie/25IMG_1536.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Photographie/25IMG_1536.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="96.403225" atv="35.219613" distorted="true" rx="-54.5" ry="-1.75" rz="-5.813033" width="1234" height="768" scale="0.038528" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/photographie/26IMG_1537.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Photographie/26IMG_1537.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="89.608693" atv="36.010937" distorted="true" rx="-48.75" ry="1.75" rz="1.101276" width="512" height="768" scale="0.061017" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/photographie/80. Groupe de Chameaux.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Photographie/80. Groupe de Chameaux.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="89.675803" atv="32.5712" distorted="true" rx="-57.75" ry="0.75" rz="-0.143948" width="1240" height="768" scale="0.034724" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/photographie/30IMG_1540.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Photographie/30IMG_1540.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="69.256113" atv="31.000797" distorted="true" rx="-53.75" ry="28.25" rz="34.029064" width="1094" height="768" scale="0.085797" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/photographie/29IMG_1539.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Photographie/29IMG_1539.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="67.046825" atv="35.617168" distorted="true" rx="-42.25" ry="31.0" rz="35.497622" width="1091" height="768" scale="0.068792" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/photographie/22IMG_1533.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Photographie/22IMG_1533.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="52.817382" atv="22.926775" distorted="true" rx="20.05" ry="-56.2375" rz="0.497413" width="412" height="768" scale="0.125812" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/photographie/23IMG_1533.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Photographie/23IMG_1533.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="56.721756" atv="23.313828" distorted="true" rx="21.25" ry="-59.75" rz="1.229146" width="783" height="768" scale="0.059333" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/photographie/24IMG_1533.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Photographie/24IMG_1533.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="60.081466" atv="21.358597" distorted="true" rx="19.25" ry="-62.5" rz="0.402123" width="793" height="768" scale="0.055935" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/photographie/25IMG_1534.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Photographie/25IMG_1534.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="122.223126" atv="17.859128" distorted="true" rx="16.0" ry="60.0" rz="-0.443073" width="838" height="768" scale="0.066694" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/photographie/26IMG_1534.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Photographie/26IMG_1534.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="122.298868" atv="23.78058" distorted="true" rx="23.0" ry="57.0" rz="0.037315" width="773" height="768" scale="0.061507" 
 				 />
 
-		<hotspot name="hs13" url="%SWFPATH%/images/photographie/27IMG_1534.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs13" url="%SWFPATH%/images/Photographie/27IMG_1534.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="126.305829" atv="25.851563" distorted="true" rx="22.25" ry="57.75" rz="-0.056124" width="770" height="768" scale="0.068436" 
 				 />
 	</scene>
@@ -1446,71 +1446,71 @@
 		
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="239.56433" atv="28.168033" distorted="true" rx="-0.75" ry="9.75" rz="-2.161463" edge="top" oy="0" width="128" height="112" scale="0.841211" linkedscene="scene_IMG_1283_Panorama" linkedscene_lookat="182.0, 0.0, 120.0" />
 	
-		<hotspot name="hs9" url="%SWFPATH%/images/photographie/19IMG_1529.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Photographie/19IMG_1529.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="131.750233" atv="-10.924291" distorted="true" rx="-10.75" ry="15.0" rz="-0.090738" width="967" height="768" scale="0.117546" 
 	         />
 
-		<hotspot name="hs1" url="%SWFPATH%/images/photographie/09IMG_1511A.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Photographie/09IMG_1511A.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-53.598159" atv="1.337631" distorted="true" rx="1.0" ry="18.25" rz="0.024865" width="624" height="768" scale="0.177438" 
 				 />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/photographie/09IMG_1511B.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Photographie/09IMG_1511B.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-37.546753" atv="1.278601" distorted="true" rx="-3.0" ry="3.75" rz="0.235648" width="631" height="768" scale="0.186344" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/photographie/11IMG_1514.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Photographie/11IMG_1514.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-19.56393" atv="1.27154" distorted="true" rx="1.75" ry="-15.5" rz="0.030118" width="940" height="768" scale="0.14986" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/photographie/12IMG_1515.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Photographie/12IMG_1515.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="0.997242" atv="1.021997" distorted="true" rx="0" ry="-32.25" rz="-0.385284" width="941" height="768" scale="0.127585" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/photographie/12IMG_1516.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Photographie/12IMG_1516.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-3.144272" atv="15.635179" distorted="true" rx="14.5" ry="-30.25" rz="-0.040767" width="408" height="768" scale="0.116843" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/photographie/10IMG_1512.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Photographie/10IMG_1512.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-56.8413" atv="16.111334" distorted="true" rx="17.0" ry="17.5" rz="1.074817" width="385" height="768" scale="0.122585" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/photographie/18IMG_1526.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Photographie/18IMG_1526.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="112.074977" atv="1.986986" distorted="true" rx="0.25" ry="34.5" rz="1.055629" width="620" height="768" scale="0.200048" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/photographie/18IMG_1527.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Photographie/18IMG_1527.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="108.414472" atv="15.893788" distorted="true" rx="15.5" ry="37.5" rz="0.626194" width="757" height="768" scale="0.05969" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/photographie/19IMG_1532.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Photographie/19IMG_1532.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="120.662855" atv="20.848729" distorted="true" rx="19.75" ry="24.5" rz="1.571638" width="417" height="768" scale="0.12506" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/photographie/20IMG_1530.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Photographie/20IMG_1530.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="131.750773" atv="2.208194" distorted="true" rx="0.75" ry="11.75" rz="0.462676" width="940" height="768" scale="0.122218" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/photographie/21IMG_1531.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Photographie/21IMG_1531.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="131.586953" atv="15.066392" distorted="true" rx="14.0" ry="18.25" rz="-0.325802" width="978" height="768" scale="0.117898" 
 				 />
 
-		<hotspot name="hs13" url="%SWFPATH%/images/photographie/13IMG_1517.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs13" url="%SWFPATH%/images/Photographie/13IMG_1517.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="24.320011" atv="8.462946" distorted="true" rx="13.0" ry="29.25" rz="-0.909851" width="778" height="768" scale="0.059571" 
 				 />
 
-		<hotspot name="hs14" url="%SWFPATH%/images/photographie/14IMG_1518.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs14" url="%SWFPATH%/images/Photographie/14IMG_1518.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="39.068202" atv="9.612218" distorted="true" rx="13.0" ry="14.5" rz="0.551184" width="768" height="768" scale="0.064983" 
 				 />
 
-		<hotspot name="hs15" url="%SWFPATH%/images/photographie/15IMG_1519.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs15" url="%SWFPATH%/images/Photographie/15IMG_1519.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="56.635441" atv="10.234982" distorted="true" rx="14.75" ry="4.75" rz="-0.422578" width="754" height="768" scale="0.070392" 
 				 />
 
-		<hotspot name="hs16" url="%SWFPATH%/images/photographie/16IMG_1520.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs16" url="%SWFPATH%/images/Photographie/16IMG_1520.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="74.651138" atv="10.082118" distorted="true" rx="9.5" ry="-18.5" rz="0.301134" width="790" height="768" scale="0.064336" 
 				 />
 
-		<hotspot name="hs17" url="%SWFPATH%/images/photographie/17IMG_1521.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs17" url="%SWFPATH%/images/Photographie/17IMG_1521.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="89.697789" atv="8.944049" distorted="true" rx="5.75" ry="-34.25" rz="-0.714416" width="807" height="768" scale="0.058509" 
 				 />
 
@@ -1531,30 +1531,30 @@
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="151.68416" atv="28.715902" distorted="true" rx="9.75" ry="17.75" rz="-8.708958" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1311_Panorama" />
 		<hotspot name="spot4" style="skin_hotspotstyle" ath="239.822986" atv="28.793662" distorted="true" rx="-2.25" ry="18.0" rz="-4.44721" edge="top" oy="0" width="128" height="112" scale="0.727721" linkedscene="scene_IMG_1358_Panorama" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/photographie/31IMG_1541.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Photographie/31IMG_1541.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="13.859374" atv="-1.111683" distorted="true" rx="0" ry="45.0" rz="-0.436265" width="645" height="768" scale="0.147336" 
 	         />
-		<hotspot name="hs2" url="%SWFPATH%/images/photographie/31IMG_1542.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Photographie/31IMG_1542.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="11.275604" atv="10.909685" distorted="true" rx="10.5" ry="50.0" rz="-0.152648" width="448" height="768" scale="0.086055" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/photographie/32IMG_1543a.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Photographie/32IMG_1543a.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="32.47442" atv="-8.03426" distorted="true" rx="-10.0" ry="-60.5" rz="-0.309203" width="776" height="768" scale="0.123569" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/photographie/32IMG_1543b.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Photographie/32IMG_1543b.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="32.400917" atv="4.760356" distorted="true" rx="4.25" ry="-59.0" rz="0.07291" width="771" height="768" scale="0.123569" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/photographie/32IMG_1544.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Photographie/32IMG_1544.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="29.653116" atv="15.215782" distorted="true" rx="10.0" ry="-62.0" rz="-0.430612" width="764" height="768" scale="0.051277" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/photographie/42IMG_1571.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Photographie/42IMG_1571.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="80.5529" atv="-1.189659" distorted="true" rx="-1.4875" ry="68.55" rz="-0.710245" width="945" height="768" scale="0.103429" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/photographie/42IMG_1570.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Photographie/42IMG_1570.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="79.627022" atv="8.712064" distorted="true" rx="6.5625" ry="68.3875" rz="1.645041" width="769" height="768" scale="0.047289" 
 				 />
 		
@@ -1572,103 +1572,103 @@
 
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="174.576891" atv="29.728708" distorted="true" rx="-8.25" ry="14.5" rz="2.053032" edge="top" oy="0" width="128" height="112" scale="0.841211" linkedscene="scene_IMG_1297_Panorama" linkedscene_lookat="238.0, 0.0, 120.0" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/photographie/32IMG_1543a.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Photographie/32IMG_1543a.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="213.982354" atv="-12.907684" distorted="true" rx="-14.75" ry="51.25" rz="0.454969" width="776" height="768" scale="0.198852" 
 	         />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/photographie/32IMG_1543b.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Photographie/32IMG_1543b.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="214.14555" atv="7.709146" distorted="true" rx="7.75" ry="50.75" rz="0.153095" width="771" height="768" scale="0.197269" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/photographie/32IMG_1544.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Photographie/32IMG_1544.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="210.327082" atv="19.844774" distorted="true" rx="19.0" ry="59.5" rz="-0.527794" width="764" height="768" scale="0.065964" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/photographie/33IMG_1547a.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Photographie/33IMG_1547a.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="254.796623" atv="38.306768" distorted="true" rx="-41.5" ry="14.0" rz="16.683681" width="1365" height="768" scale="0.118253" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/photographie/33IMG_1548b.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Photographie/33IMG_1548b.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-81.345194" atv="38.361286" distorted="true" rx="-47.25" ry="-9.5" rz="-13.857674" width="1260" height="768" scale="0.128353" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/photographie/33IMG_1545.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Photographie/33IMG_1545.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="231.106263" atv="31.111166" distorted="true" rx="23.5" ry="-59.25" rz="-0.761538" width="913" height="768" scale="0.072029" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/photographie/34IMG_1552.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Photographie/34IMG_1552.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-62.351787" atv="31.943373" distorted="true" rx="-24.5" ry="54.5" rz="71.755859" width="546" height="768" scale="0.098289" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/photographie/34IMG_1549.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Photographie/34IMG_1549.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-58.772525" atv="35.046981" distorted="true" rx="-36.75" ry="-36.5" rz="-45.672376" width="1481" height="768" scale="0.033732" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/photographie/34IMG_1553.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Photographie/34IMG_1553.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-45.469458" atv="26.640969" distorted="true" rx="31.0" ry="41.875" rz="-2.072777" width="775" height="768" scale="0.070816" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/photographie/35IMG_1554.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Photographie/35IMG_1554.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-45.078157" atv="15.405575" distorted="true" rx="17.0" ry="39.0" rz="-1.164699" width="767" height="768" scale="0.076252" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/photographie/35IMG_1556.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Photographie/35IMG_1556.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-48.562149" atv="-1.543785" distorted="true" rx="-1.75" ry="46.25" rz="-0.272125" width="971" height="768" scale="0.117898" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/photographie/36IMG_1557.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Photographie/36IMG_1557.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-28.165675" atv="-2.434406" distorted="true" rx="-3.5" ry="25.75" rz="-0.291605" width="634" height="768" scale="0.304402" 
 				 />
 
-		<hotspot name="hs13" url="%SWFPATH%/images/photographie/36IMG_1558.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs13" url="%SWFPATH%/images/Photographie/36IMG_1558.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-33.847188" atv="17.596871" distorted="true" rx="19.25" ry="31.25" rz="-1.803509" width="812" height="768" scale="0.088497" 
 				 />
 
-		<hotspot name="hs15" url="%SWFPATH%/images/photographie/37IMG_1559.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs15" url="%SWFPATH%/images/Photographie/37IMG_1559.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="3.116202" atv="-2.492757" distorted="true" rx="-0.3625" ry="-6.3125" rz="-0.207764" width="630" height="768" scale="0.330868" 
 				 />
 
-		<hotspot name="hs16" url="%SWFPATH%/images/photographie/37IMG_1560.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs16" url="%SWFPATH%/images/Photographie/37IMG_1560.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-5.066234" atv="20.235964" distorted="true" rx="11.0" ry="-0.25" rz="-0.394684" width="770" height="768" scale="0.098979" 
 				 />
 
-		<hotspot name="hs17" url="%SWFPATH%/images/photographie/38IMG_1561.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs17" url="%SWFPATH%/images/Photographie/38IMG_1561.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="31.181712" atv="-2.514937" distorted="true" rx="-3.25" ry="-33.75" rz="-0.476076" width="594" height="768" scale="0.27766" 
 				 />
 
-		<hotspot name="hs18" url="%SWFPATH%/images/photographie/38IMG_1561d.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs18" url="%SWFPATH%/images/Photographie/38IMG_1561d.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="25.04725" atv="17.975555" distorted="true" rx="16.75" ry="-28.0" rz="-0.748744" width="761" height="768" scale="0.092015" 
 				 />
 
-		<hotspot name="hs19" url="%SWFPATH%/images/photographie/39IMG_1563.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs19" url="%SWFPATH%/images/Photographie/39IMG_1563.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="45.643599" atv="24.26817" distorted="true" rx="21.25" ry="-52.75" rz="0.105231" width="801" height="768" scale="0.063" 
 				 />
 
-		<hotspot name="hs20" url="%SWFPATH%/images/photographie/39IMG_1564.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs20" url="%SWFPATH%/images/Photographie/39IMG_1564.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="77.933206" atv="31.896207" distorted="true" rx="-51.0" ry="13.25" rz="17.769251" width="919" height="768" scale="0.111927" 
 				 />
 
-		<hotspot name="hs21" url="%SWFPATH%/images/photographie/40IMG_1566.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs21" url="%SWFPATH%/images/Photographie/40IMG_1566.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="99.159314" atv="32.895153" distorted="true" rx="-53.25" ry="-19.5" rz="-21.276094" width="583" height="768" scale="0.121974" 
 				 />
 
-		<hotspot name="hs22" url="%SWFPATH%/images/photographie/40IMG_1567.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs22" url="%SWFPATH%/images/Photographie/40IMG_1567.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="119.36874" atv="27.085757" distorted="true" rx="30.25" ry="57.25" rz="0.416321" width="774" height="768" scale="0.07268" 
 				 />
 
-		<hotspot name="hs23" url="%SWFPATH%/images/photographie/41IMG_1568.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs23" url="%SWFPATH%/images/Photographie/41IMG_1568.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="91.909103" atv="-1.431577" distorted="true" rx="-4.5" ry="-6.0" rz="-0.278734" width="927" height="768" scale="0.14284" 
 				 />
 
-		<hotspot name="hs24" url="%SWFPATH%/images/photographie/41IMG_1569.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs24" url="%SWFPATH%/images/Photographie/41IMG_1569.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="86.223163" atv="10.818043" distorted="true" rx="0" ry="0" rz="0.767069" width="769" height="768" scale="0.057236" 
 				 />
 
-		<hotspot name="hs25" url="%SWFPATH%/images/photographie/42IMG_1571.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs25" url="%SWFPATH%/images/Photographie/42IMG_1571.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="136.309639" atv="-1.952614" distorted="true" rx="-2.75" ry="-48.25" rz="-0.276177" width="945" height="768" scale="0.152734" 
 				 />
 
-		<hotspot name="hs26" url="%SWFPATH%/images/photographie/42IMG_1570.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs26" url="%SWFPATH%/images/Photographie/42IMG_1570.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="132.0969" atv="14.063171" distorted="true" rx="12.0" ry="-46.75" rz="0.398539" width="769" height="768" scale="0.076404" 
 				 />
 
@@ -1688,43 +1688,43 @@
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="-18.982363" atv="28.870872" distorted="true" rx="-15.75" ry="20.0" rz="7.620757" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1297_Panorama" linkedscene_lookat="-31.0, 0.0, 120.0" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="201.075256" atv="30.985724" distorted="true" rx="2.25" ry="18.75" rz="-5.22002" edge="top" oy="0" width="128" height="112" scale="0.843739" linkedscene="scene_IMG_1342_Panorama" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/architecture/13IMG_1598.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Architecture/13IMG_1598.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="121.003223" atv="-1.51943" distorted="true" rx="-0.25" ry="-47.5" rz="0.751716" width="931" height="768" scale="0.115104" 
 	         />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/architecture/13IMG_1599.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Architecture/13IMG_1599.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="117.424001" atv="9.457859" distorted="true" rx="9.25" ry="-47.0" rz="0.070547" width="769" height="768" scale="0.048196" 
 	         />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/architecture/21_IMG_1604.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Architecture/21_IMG_1604.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="152.708331" atv="33.21918" distorted="true" rx="-47.5" ry="16.5" rz="19.592187" width="1258" height="768" scale="0.100174" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/architecture/22_IMG_1603.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Architecture/22_IMG_1603.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="164.987796" atv="33.995346" distorted="true" rx="-44.25" ry="4.25" rz="2.345798" width="1285" height="768" scale="0.034689" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/architecture/23_IMG_1613.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Architecture/23_IMG_1613.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="172.522222" atv="32.903408" distorted="true" rx="-47.75" ry="-7.0" rz="-8.806597" width="1192" height="768" scale="0.03676" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/architecture/23_IMG_1614.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Architecture/23_IMG_1614.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="173.121888" atv="35.072071" distorted="true" rx="-60.0" ry="-9.25" rz="-12.747429" width="1169" height="768" scale="0.0399" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/architecture/24_IMG_1609.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Architecture/24_IMG_1609.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="182.1751" atv="35.194545" distorted="true" rx="-38.75" ry="-21.0" rz="-22.929363" width="1291" height="768" scale="0.037055" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/architecture/25_IMG_1610.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Architecture/25_IMG_1610.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="180.499735" atv="32.587079" distorted="true" rx="-52.0" ry="-20.25" rz="-24.727432" width="1153" height="768" scale="0.041155" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/architecture/25_IMG_1611.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Architecture/25_IMG_1611.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="179.908633" atv="29.963489" distorted="true" rx="-53.75" ry="-22.75" rz="-26.132963" width="537" height="768" scale="0.056894" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/architecture/25_IMG_1612.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Architecture/25_IMG_1612.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="174.406685" atv="30.154857" distorted="true" rx="-53.25" ry="-8.75" rz="-12.728978" width="1122" height="768" scale="0.036177" 
 				 />
 	</scene>
@@ -1742,59 +1742,59 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="141.028267" atv="29.001904" distorted="true" rx="-17.5" ry="24.75" rz="10.721878" edge="top" oy="0" width="128" height="112" scale="0.841211"  linkedscene="scene_IMG_1326_Panorama" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="240.810154" atv="28.836017" distorted="true" rx="0.25" ry="16.75" rz="-5.890516" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1311_Panorama" linkedscene_lookat="255.0, 0.0, 120.0" />
 	
-		<hotspot name="hs7" url="%SWFPATH%/images/architecture/04IMG_1580.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Architecture/04IMG_1580.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="27.275006" atv="-1.965878" distorted="true" rx="-1.25" ry="29.5" rz="-0.226402" width="819" height="768" scale="0.198455" 
 	         />
 
-		<hotspot name="hs1" url="%SWFPATH%/images/architecture/01IMG_1574.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Architecture/01IMG_1574.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-60.647718" atv="-2.363563" distorted="true" rx="-1.0" ry="28.5" rz="-0.435289" width="1048" height="768" scale="0.211354" 
 				 />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/architecture/01IMG_1575.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Architecture/01IMG_1575.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-68.951627" atv="15.64054" distorted="true" rx="12.75" ry="41.25" rz="0.03288" width="433" height="768" scale="0.12052" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/architecture/02IMG_1576.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Architecture/02IMG_1576.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-22.661836" atv="-1.74234" distorted="true" rx="-1.0" ry="-12.0" rz="-0.204085" width="692" height="768" scale="0.208417" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/architecture/02IMG_1577.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Architecture/02IMG_1577.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-31.144077" atv="19.013031" distorted="true" rx="12.0" ry="-0.5" rz="-0.135079" width="423" height="768" scale="0.144275" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/architecture/03IMG_1578.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Architecture/03IMG_1578.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-1.251536" atv="-1.966956" distorted="true" rx="-3.75" ry="-29.5" rz="-0.678469" width="908" height="768" scale="0.114759" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/architecture/03IMG_1579.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Architecture/03IMG_1579.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-4.574986" atv="15.397331" distorted="true" rx="16.0" ry="-31.5" rz="0.788867" width="570" height="768" scale="0.09888" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/architecture/04IMG_1581.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Architecture/04IMG_1581.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="21.105432" atv="14.035424" distorted="true" rx="11.75" ry="39.0" rz="-0.048823" width="772" height="768" scale="0.072535" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/architecture/05IMG_1582.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Architecture/05IMG_1582.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="55.70848" atv="-2.30458" distorted="true" rx="-2.0" ry="0" rz="0.151076" width="884" height="768" scale="0.239002" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/architecture/05IMG_1583.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Architecture/05IMG_1583.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="46.71866" atv="18.619561" distorted="true" rx="13.25" ry="19.25" rz="0.089813" width="510" height="768" scale="0.126822" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/architecture/06IMG_1584.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Architecture/06IMG_1584.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="82.883631" atv="-2.118945" distorted="true" rx="-3.0" ry="-25.75" rz="-0.215639" width="580" height="768" scale="0.246277" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/architecture/06IMG_1585.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Architecture/06IMG_1585.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="76.564619" atv="18.647026" distorted="true" rx="14.0" ry="-23.25" rz="0.114492" width="413" height="768" scale="0.145579" 
 				 />
 
-		<hotspot name="hs13" url="%SWFPATH%/images/architecture/07IMG_1587.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs13" url="%SWFPATH%/images/Architecture/07IMG_1587.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="107.131502" atv="-1.348998" distorted="true" rx="-1.75" ry="-51.0" rz="-0.149879" width="642" height="768" scale="0.263071" 
 				 />
 
-		<hotspot name="hs14" url="%SWFPATH%/images/architecture/07IMG_1586.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs14" url="%SWFPATH%/images/Architecture/07IMG_1586.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="96.325736" atv="13.135496" distorted="true" rx="12.0" ry="-41.75" rz="0.543755" width="768" height="768" scale="0.063697" 
 				 />
 
@@ -1813,47 +1813,47 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="48.606677" atv="29.007961" distorted="true" rx="-26.25" ry="27.25" rz="22.531296" edge="top" oy="0" width="128" height="112" scale="0.841211" linkedscene="scene_IMG_1333_Panorama" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="155.026647" atv="29.202387" distorted="true" rx="22.0" ry="10.0" rz="-12.774507" edge="top" oy="0" width="128" height="112" scale="0.904885" linkedscene="scene_IMG_1319_Panorama" linkedscene_lookat="-32.0, 0.0, 120.0" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/architecture/07IMG_1587.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Architecture/07IMG_1587.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="202.633698" atv="-1.906781" distorted="true" rx="-2.25" ry="36.25" rz="0.165782" width="642" height="768" scale="0.303188" 
 	         />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/architecture/07IMG_1586.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Architecture/07IMG_1586.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="192.135894" atv="10.379343" distorted="true" rx="10.75" ry="47.75" rz="-0.49607" width="768" height="768" scale="0.053529" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/architecture/08IMG_1588.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Architecture/08IMG_1588.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="236.019585" atv="-1.952968" distorted="true" rx="-1.75" ry="0.25" rz="0.044843" width="927" height="768" scale="0.204088" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/architecture/08IMG_1589.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Architecture/08IMG_1589.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="228.144112" atv="17.589622" distorted="true" rx="12.75" ry="14.5" rz="0.40793" width="413" height="768" scale="0.139734" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/architecture/09IMG_1590.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Architecture/09IMG_1590.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="262.401777" atv="-1.691314" distorted="true" rx="-2.0" ry="-25.25" rz="-0.162947" width="888" height="768" scale="0.193945" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/architecture/09IMG_1591.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Architecture/09IMG_1591.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="255.273885" atv="14.557525" distorted="true" rx="16.5" ry="-16.0" rz="0.153609" width="773" height="768" scale="0.074743" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/architecture/10IMG_1592.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Architecture/10IMG_1592.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-79.652982" atv="-1.464242" distorted="true" rx="-2.0" ry="-38.5" rz="0.54453" width="573" height="768" scale="0.183205" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/architecture/10IMG_1593.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Architecture/10IMG_1593.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-83.29491" atv="14.183134" distorted="true" rx="11.0" ry="-45.25" rz="0.221721" width="506" height="768" scale="0.105307" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/architecture/11IMG_1595.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Architecture/11IMG_1595.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-38.79243" atv="-1.298901" distorted="true" rx="0.5" ry="5.75" rz="-0.473963" width="933" height="768" scale="0.154886" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/architecture/11IMG_1596.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Architecture/11IMG_1596.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-44.735166" atv="14.061755" distorted="true" rx="11.25" ry="11.5" rz="0.290051" width="408" height="768" scale="0.107219" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/architecture/12IMG_1597.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Architecture/12IMG_1597.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 				 ath="-15.57736" atv="-1.361301" distorted="true" rx="-0.75" ry="-15.0" rz="-0.014082" width="933" height="768" scale="0.150461" 
 				 />
 
@@ -1873,15 +1873,15 @@
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="143.994088" atv="29.185205" distorted="true" rx="-9.0" ry="13.25" rz="-0.367003" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1326_Panorama" linkedscene_lookat="-120.0, 0.0, 120.0" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="235.925961" atv="26.85448" distorted="true" rx="-13.0" ry="17.75" rz="1.794491" edge="top" oy="0" width="128" height="112" scale="0.843739" linkedscene="scene_IMG_1101_Panorama" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/architecture/26_IMG_1620.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Architecture/26_IMG_1620.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="43.454629" atv="29.041101" distorted="true" rx="-61.75" ry="17.75" rz="22.680722" width="1021" height="768" scale="0.096248" 
 	         />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/architecture/26_IMG_1622.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Architecture/26_IMG_1622.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="53.302362" atv="30.344139" distorted="true" rx="-62.25" ry="3.5" rz="4.942316" width="542" height="768" scale="0.088144" 
 	         />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/architecture/27_IMG_1616.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Architecture/27_IMG_1616.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="66.655232" atv="29.138559" distorted="true" rx="-54.25" ry="-19.25" rz="-21.713596" width="1300" height="768" scale="0.109165" 
 	         />
 
@@ -1901,79 +1901,79 @@
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="122.15728" atv="26.558276" distorted="true" rx="-12.25" ry="-7.75" rz="1.168227" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1333_Panorama" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="-17.545389" atv="26.903957" distorted="true" rx="-16.5" ry="24.0" rz="4.302444" edge="top" oy="0" width="128" height="112" scale="0.843739" linkedscene="scene_IMG_1311_Panorama" linkedscene_lookat="-14.0, 0.0, 120.0" />
 	
-	<hotspot name="hs1" url="%SWFPATH%/images/architecture/2eme table.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs1" url="%SWFPATH%/images/Architecture/2eme table.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="236.79841" atv="31.978415" distorted="true" rx="-58.25" ry="2.0" rz="1.971934" width="1140" height="768" scale="0.510347" 
 	         />
 			 
-	<hotspot name="hs2" url="%SWFPATH%/images/architecture/21_IMG_1601.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs2" url="%SWFPATH%/images/Architecture/21_IMG_1601.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="38.213537" atv="28.540573" distorted="true" rx="18.25" ry="63.5" rz="97.745836" width="788" height="768" scale="0.04022" 
 	         />
 
-	<hotspot name="hs3" url="%SWFPATH%/images/architecture/22_IMG_1602.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs3" url="%SWFPATH%/images/Architecture/22_IMG_1602.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="32.049215" atv="35.380205" distorted="true" rx="18.0625" ry="51.8625" rz="106.580302" width="784" height="768" scale="0.044894" 
 	         />
 
-	<hotspot name="hs4" url="%SWFPATH%/images/architecture/21_IMG_1604.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs4" url="%SWFPATH%/images/Architecture/21_IMG_1604.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="45.663943" atv="31.727542" distorted="true" rx="8.5" ry="59.0" rz="96.543139" width="1258" height="768" scale="0.10312" 
 	         />
 			 
-	<hotspot name="hs13" url="%SWFPATH%/images/architecture/25_IMG_1611.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs13" url="%SWFPATH%/images/Architecture/25_IMG_1611.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="47.167968" atv="50.262522" distorted="true" rx="1.5" ry="41.75" rz="99.238135" width="537" height="768" scale="0.088144" 
 	         />
 			 
-	<hotspot name="hs5" url="%SWFPATH%/images/architecture/22_IMG_1603.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs5" url="%SWFPATH%/images/Architecture/22_IMG_1603.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="42.380095" atv="37.696848" distorted="true" rx="7.75" ry="48.5" rz="100.804447" width="1285" height="768" scale="0.037841" 
 	         />
 
-	<hotspot name="hs7" url="%SWFPATH%/images/architecture/23_IMG_1613.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs7" url="%SWFPATH%/images/Architecture/23_IMG_1613.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="42.646759" atv="42.567155" distorted="true" rx="10.25" ry="47.25" rz="100.50463" width="1192" height="768" scale="0.045801" 
 	         />
 
-	<hotspot name="hs6" url="%SWFPATH%/images/architecture/23_IMG_1605.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs6" url="%SWFPATH%/images/Architecture/23_IMG_1605.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="29.354517" atv="37.946047" distorted="true" rx="23.75" ry="45.25" rz="108.532928" width="770" height="768" scale="0.047037" 
 	         />
 
-	<hotspot name="hs8" url="%SWFPATH%/images/architecture/23_IMG_1614.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs8" url="%SWFPATH%/images/Architecture/23_IMG_1614.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="36.645967" atv="41.584134" distorted="true" rx="17.5" ry="43.75" rz="104.868989" width="1169" height="768" scale="0.045345" 
 	         />
 
-	<hotspot name="hs9" url="%SWFPATH%/images/architecture/24_IMG_1606.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs9" url="%SWFPATH%/images/Architecture/24_IMG_1606.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="25.126029" atv="41.487182" distorted="true" rx="21.5" ry="44.5" rz="113.07349" width="768" height="768" scale="0.051072" 
 	         />
 
-	<hotspot name="hs10" url="%SWFPATH%/images/architecture/24_IMG_1609.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs10" url="%SWFPATH%/images/Architecture/24_IMG_1609.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="29.170709" atv="45.816351" distorted="true" rx="10.5" ry="52.5" rz="111.462946" width="1291" height="768" scale="0.051072" 
 	         />
 
-	<hotspot name="hs11" url="%SWFPATH%/images/architecture/25IMG_1607.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs11" url="%SWFPATH%/images/Architecture/25IMG_1607.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="21.124113" atv="44.531124" distorted="true" rx="23.75" ry="36.5" rz="118.107769" width="765" height="768" scale="0.054121" 
 	         />
 
-	<hotspot name="hs12" url="%SWFPATH%/images/architecture/25_IMG_1610.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs12" url="%SWFPATH%/images/Architecture/25_IMG_1610.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="36.92068" atv="48.406115" distorted="true" rx="11.5" ry="36.25" rz="106.155383" width="1153" height="768" scale="0.058217" 
 	         />
 
-	<hotspot name="hs14" url="%SWFPATH%/images/architecture/25_IMG_1612.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs14" url="%SWFPATH%/images/Architecture/25_IMG_1612.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="50.101888" atv="45.51353" distorted="true" rx="4.5" ry="43.5" rz="95.384527" width="1122" height="768" scale="0.056159" 
 	         />
 
-	<hotspot name="hs15" url="%SWFPATH%/images/architecture/26_IMG_1619.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs15" url="%SWFPATH%/images/Architecture/26_IMG_1619.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="83.122179" atv="42.984182" distorted="true" rx="18.75" ry="-45.75" rz="-108.006396" width="760" height="768" scale="0.055048" 
 	         />
 
-	<hotspot name="hs16" url="%SWFPATH%/images/architecture/26_IMG_1620.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs16" url="%SWFPATH%/images/Architecture/26_IMG_1620.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="68.285471" atv="46.793352" distorted="true" rx="6.25" ry="-40.0" rz="-99.361954" width="1021" height="768" scale="0.130813" 
 	         />
 
-	<hotspot name="hs17" url="%SWFPATH%/images/architecture/26_IMG_1622.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs17" url="%SWFPATH%/images/Architecture/26_IMG_1622.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="65.357971" atv="39.298538" distorted="true" rx="4.6" ry="-55.6375" rz="-95.611567" width="542" height="768" scale="0.109384" 
 	         />
 
-	<hotspot name="hs18" url="%SWFPATH%/images/architecture/27_IMG_1616.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs18" url="%SWFPATH%/images/Architecture/27_IMG_1616.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="62.958254" atv="31.658376" distorted="true" rx="3.75" ry="-60.75" rz="-93.219578" width="1300" height="768" scale="0.130552" 
 	         />
 
-	<hotspot name="hs19" url="%SWFPATH%/images/architecture/27_IMG_1617.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs19" url="%SWFPATH%/images/Architecture/27_IMG_1617.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="72.928902" atv="29.916512" distorted="true" rx="11.5" ry="-61.75" rz="-97.609256" width="768" height="747" scale="0.039188" 
 	         />
 
