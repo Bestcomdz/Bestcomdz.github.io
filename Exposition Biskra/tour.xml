@@ -882,7 +882,7 @@
 	         />
 	</scene>
 
-	<scene name="scene_IMG_1225_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1225_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1225_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1225_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="193.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -898,7 +898,7 @@
 	
 	</scene>
 
-	<scene name="scene_IMG_1232_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1232_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1232_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1232_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="210.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -918,7 +918,7 @@
 	         />
 	</scene>
 
-	<scene name="scene_IMG_1239_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1239_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1239_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1239_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="-120.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -1027,7 +1027,7 @@
 				 />
 	</scene>
 
-	<scene name="scene_IMG_1246_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1246_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1246_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1246_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="-22.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -1040,78 +1040,78 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="-29.861192" atv="32.959699" distorted="true" rx="-5.75" ry="25.0" rz="-1.016454" edge="top" oy="0" width="128" height="112" scale="0.743155" linkedscene="scene_IMG_1254_Panorama" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="152.302431" atv="30.078211" distorted="true" rx="-4.5" ry="12.25" rz="1.086349" edge="top" oy="0" width="128" height="112" scale="0.711893" linkedscene="scene_IMG_1239_Panorama" linkedscene_lookat="-212.0, 0.0, 120.0" />
 	
-		<hotspot name="hs7" url="%SWFPATH%/images/avant-garde/11IMG_1457.jpg" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Avant-garde/11IMG_1457.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 	         ath="-76.95241" atv="-1.488504" distorted="true" rx="-1.75" ry="-42.0" rz="-0.821791" width="913" height="768" scale="0.172886" 
 	         />
 
-		<hotspot name="hs1" url="%SWFPATH%/images/avant-garde/08IMG_1451.jpg" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Avant-garde/08IMG_1451.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="194.363013" atv="-1.326088" distorted="true" rx="-1.5" ry="46.5" rz="0.477385" width="772" height="768" scale="0.209043" 
 				 />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/avant-garde/08IMG_1452.jpg" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Avant-garde/08IMG_1452.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="189.628265" atv="16.714419" distorted="true" rx="14.5" ry="47.25" rz="0.458396" width="415" height="768" scale="0.100274" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/avant-garde/09IMG_1453.jpg" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Avant-garde/09IMG_1453.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="223.259126" atv="-1.804453" distorted="true" rx="-2.2625" ry="18.325" rz="-0.737975" width="759" height="768" scale="0.301375" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/avant-garde/09IMG_1454.jpg" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Avant-garde/09IMG_1454.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="212.722903" atv="20.100407" distorted="true" rx="14.25" ry="29.5" rz="1.102929" width="774" height="768" scale="0.074296" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/avant-garde/10IMG_1455.jpg" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Avant-garde/10IMG_1455.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="259.188226" atv="-2.27053" distorted="true" rx="-0.5" ry="-19.75" rz="0.28576" width="594" height="768" scale="0.217352" 
 				 />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/avant-garde/10IMG_1456.jpg" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Avant-garde/10IMG_1456.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="254.873398" atv="21.961888" distorted="true" rx="13.5" ry="-17.75" rz="0.068834" width="770" height="768" scale="0.082682" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/avant-garde/11IMG_1458.jpg" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Avant-garde/11IMG_1458.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="-83.011187" atv="21.270093" distorted="true" rx="18.5" ry="-36.0" rz="-0.502566" width="413" height="768" scale="0.129383" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/avant-garde/16IMG_1468.jpg" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Avant-garde/16IMG_1468.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="76.42794" atv="-1.277238" distorted="true" rx="-3.5" ry="-18.5" rz="-0.103339" width="929" height="768" scale="0.119679" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/avant-garde/16IMG_1470.jpg" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Avant-garde/16IMG_1470.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="73.58129" atv="16.781566" distorted="true" rx="8.5" ry="-16.5" rz="-1.715564" width="778" height="768" scale="0.045074" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/avant-garde/17IMG_1473.jpg" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Avant-garde/17IMG_1473.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="60.962719" atv="-1.355143" distorted="true" rx="5.5" ry="-2.0" rz="0.094069" width="549" height="768" scale="0.151517" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/avant-garde/17IMG_1474.jpg" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Avant-garde/17IMG_1474.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="47.740631" atv="16.591046" distorted="true" rx="10.5" ry="15.75" rz="1.183407" width="719" height="768" scale="0.047621" 
 				 />
 
-		<hotspot name="hs13" url="%SWFPATH%/images/avant-garde/18IMG_1475.jpg" 
+		<hotspot name="hs13" url="%SWFPATH%/images/Avant-garde/18IMG_1475.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="45.30635" atv="-1.509724" distorted="true" rx="-1.75" ry="14.75" rz="-0.070826" width="847" height="768" scale="0.117194" 
 				 />
 
-		<hotspot name="hs14" url="%SWFPATH%/images/avant-garde/18IMG_1476.jpg" 
+		<hotspot name="hs14" url="%SWFPATH%/images/Avant-garde/18IMG_1476.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="40.863756" atv="9.777824" distorted="true" rx="8.75" ry="22.0" rz="-0.108101" width="406" height="768" scale="0.084689" 
 				 />
 	</scene>
 
-	<scene name="scene_IMG_1254_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1254_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1254_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1254_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="-180.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -1124,68 +1124,68 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="266.955441" atv="29.153695" distorted="true" rx="-8.75" ry="18.25" rz="-0.884548" edge="top" oy="0" width="128" height="112" scale="0.743155" linkedscene="scene_IMG_1262_Panorama" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="0.983329" atv="28.346887" distorted="true" rx="5.25" ry="20.25" rz="-8.092239" edge="top" oy="0" width="128" height="112" scale="0.711893" linkedscene="scene_IMG_1246_Panorama" linkedscene_lookat="-208.0, 0.0, 120.0" />
 	
-		<hotspot name="hs6" url="%SWFPATH%/images/avant-garde/12IMG_1462.jpg" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Avant-garde/12IMG_1462.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 	         ath="84.804367" atv="20.864206" distorted="true" rx="13.1" ry="3.8625" rz="-0.064615" width="404" height="768" scale="0.120399" 
 	         />
 
-		<hotspot name="hs1" url="%SWFPATH%/images/avant-garde/10IMG_1455.jpg" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Avant-garde/10IMG_1455.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="41.785892" atv="-1.296864" distorted="true" rx="-3.0" ry="44.25" rz="0.093665" width="594" height="768" scale="0.126316" 
 				 />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/avant-garde/10IMG_1456.jpg" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Avant-garde/10IMG_1456.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="40.281862" atv="12.958567" distorted="true" rx="11.25" ry="49.25" rz="0.524988" width="770" height="768" scale="0.050413" 
 				 />
 
-		<hotspot name="hs3" url="%SWFPATH%/images/avant-garde/11IMG_1457.jpg" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Avant-garde/11IMG_1457.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="57.665762" atv="-1.138697" distorted="true" rx="-2.5" ry="28.0" rz="0.609893" width="913" height="768" scale="0.161042" 
 				 />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/avant-garde/11IMG_1458.jpg" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Avant-garde/11IMG_1458.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="52.713414" atv="17.581607" distorted="true" rx="19.0" ry="32.5" rz="-0.238169" width="413" height="768" scale="0.106578" 
 				 />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/avant-garde/12IMG_1459.jpg" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Avant-garde/12IMG_1459.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="83.31542" atv="-1.518627" distorted="true" rx="-0.25" ry="-1.25" rz="-0.303355" width="668" height="768" scale="0.220415" 
 				 />
 
-		<hotspot name="hs7" url="%SWFPATH%/images/avant-garde/13IMG_1460.jpg" 
+		<hotspot name="hs7" url="%SWFPATH%/images/Avant-garde/13IMG_1460.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="82.847918" atv="-18.350643" distorted="true" rx="-21.75" ry="1.0" rz="-0.691558" width="830" height="768" scale="0.112713" 
 				 />
 
-		<hotspot name="hs8" url="%SWFPATH%/images/avant-garde/13IMG_1462.jpg" 
+		<hotspot name="hs8" url="%SWFPATH%/images/Avant-garde/13IMG_1462.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="77.44227" atv="20.634549" distorted="true" rx="8.0" ry="10.5" rz="0.94954" width="420" height="768" scale="0.120399" 
 				 />
 
-		<hotspot name="hs9" url="%SWFPATH%/images/avant-garde/14IMG_1463.jpg" 
+		<hotspot name="hs9" url="%SWFPATH%/images/Avant-garde/14IMG_1463.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="108.859291" atv="-1.322663" distorted="true" rx="-1.0" ry="-23.5" rz="0.147189" width="669" height="768" scale="0.20368" 
 				 />
 
-		<hotspot name="hs10" url="%SWFPATH%/images/avant-garde/14IMG_1464.jpg" 
+		<hotspot name="hs10" url="%SWFPATH%/images/Avant-garde/14IMG_1464.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="103.351874" atv="17.646092" distorted="true" rx="21.0" ry="-14.25" rz="-0.242552" width="762" height="768" scale="0.066627" 
 				 />
 
-		<hotspot name="hs11" url="%SWFPATH%/images/avant-garde/15IMG_1466.jpg" 
+		<hotspot name="hs11" url="%SWFPATH%/images/Avant-garde/15IMG_1466.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="180.246383" atv="-1.824037" distorted="true" rx="0" ry="0" rz="-0.076861" width="955" height="768" scale="0.131995" 
 				 />
 
-		<hotspot name="hs12" url="%SWFPATH%/images/avant-garde/15IMG_1467.jpg" 
+		<hotspot name="hs12" url="%SWFPATH%/images/Avant-garde/15IMG_1467.jpg" 
 		alpha="0.0" style="flyoutimage" zorder="4"	
 				 ath="161.534451" atv="13.438027" distorted="true" rx="13.75" ry="18.5" rz="-0.591125" width="411" height="768" scale="0.105623" 
 				 />
 	</scene>
 
-	<scene name="scene_IMG_1262_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1262_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1262_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1262_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="-92.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -1199,40 +1199,40 @@
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="96.46728" atv="29.32422" distorted="true" rx="19.25" ry="22.25" rz="-21.487808" edge="top" oy="0" width="128" height="112" scale="0.778122"  linkedscene="scene_IMG_1254_Panorama" linkedscene_lookat="88.0, 0.0, 120.0" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="-0.565899" atv="29.36572" distorted="true" rx="0.5" ry="12.0" rz="-4.976587" edge="top" oy="0" width="128" height="112" scale="0.727721" linkedscene="scene_IMG_1232_Panorama" linkedscene_lookat="120.0, 0.0, 120.0" />
 	
-		<hotspot name="hs1" url="%SWFPATH%/images/avant-garde/19IMG_14813.jpg" alpha="0.0" style="flyoutimage" zorder="4"
+		<hotspot name="hs1" url="%SWFPATH%/images/Avant-garde/19IMG_14813.jpg" alpha="0.0" style="flyoutimage" zorder="4"
 	         ath="136.310236" atv="-1.079438" distorted="true" rx="-1.5" ry="35.25" rz="-0.780797" width="576" height="768" scale="0.121609" 
 	         />
 
-	<hotspot name="hs2" url="%SWFPATH%/images/avant-garde/19IMG_1482.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs2" url="%SWFPATH%/images/Avant-garde/19IMG_1482.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="135.003644" atv="7.778869" distorted="true" rx="9.5" ry="38.25" rz="-0.922326" width="768" height="768" scale="0.037502" 
 	         />
 
-	<hotspot name="hs3" url="%SWFPATH%/images/avant-garde/20IMG_1484.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs3" url="%SWFPATH%/images/Avant-garde/20IMG_1484.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="169.265421" atv="-1.781724" distorted="true" rx="-2.5" ry="5.0" rz="-0.502434" width="1120" height="768" scale="0.276275" 
 	         />
 
-	<hotspot name="hs4" url="%SWFPATH%/images/avant-garde/20IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs4" url="%SWFPATH%/images/Avant-garde/20IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="202.400497" atv="11.013992" distorted="true" rx="11.0" ry="-30.75" rz="1.230473" width="416" height="768" scale="0.087006" 
 	         />
 
-	<hotspot name="hs5" url="%SWFPATH%/images/avant-garde/21IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs5" url="%SWFPATH%/images/Avant-garde/21IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="207.407593" atv="10.536849" distorted="true" rx="10.25" ry="-33.75" rz="0.702272" width="408" height="768" scale="0.082765" 
 	         />
 
-	<hotspot name="hs6" url="%SWFPATH%/images/avant-garde/21IMG_1487.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs6" url="%SWFPATH%/images/Avant-garde/21IMG_1487.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="224.605433" atv="-0.652184" distorted="true" rx="-0.5" ry="-49.75" rz="0.504228" width="1155" height="768" scale="0.201453" 
 	         />
 
-	<hotspot name="hs7" url="%SWFPATH%/images/avant-garde/23IMG_1490.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs7" url="%SWFPATH%/images/Avant-garde/23IMG_1490.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="42.43593" atv="-2.047399" distorted="true" rx="1.75" ry="42.0" rz="-2.790389" width="1366" height="415" scale="0.306233" 
 	         />
 
-	<hotspot name="hs8" url="%SWFPATH%/images/avant-garde/23IMG_1491.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+	<hotspot name="hs8" url="%SWFPATH%/images/Avant-garde/23IMG_1491.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="28.405525" atv="12.059921" distorted="true" rx="17.0" ry="47.25" rz="-0.797355" width="723" height="768" scale="0.040341" 
 	         />
 	</scene>
 
-	<scene name="scene_IMG_1269_Panorama" title="Avant-Garde" onstart="" thumburl="panos/IMG_1269_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
+	<scene name="scene_IMG_1269_Panorama" title="Avant-garde" onstart="" thumburl="panos/IMG_1269_Panorama.tiles/thumb.jpg" lat="" lng="" heading="">
 
 		<view hlookat="32.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
@@ -1245,27 +1245,27 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="27.976856" atv="28.86079" distorted="true" rx="-6.5" ry="17.25" rz="-0.357145" edge="top" oy="0" width="128" height="112" scale="0.784367" linkedscene="scene_IMG_1276_Panorama" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="208.252661" atv="29.121336" distorted="true" rx="-5.25" ry="5.75" rz="-0.635714" edge="top" oy="0" width="128" height="112" scale="0.778122" linkedscene="scene_IMG_1262_Panorama" linkedscene_lookat="84.0, 0.0, 120.0" />
 		
-		<hotspot name="hs3" url="%SWFPATH%/images/avant-garde/21IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs3" url="%SWFPATH%/images/Avant-garde/21IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="268.07652" atv="8.659553" distorted="true" rx="5.25" ry="34.5" rz="0.347031" width="408" height="768" scale="0.070604" 
 	         />
 
-		<hotspot name="hs1" url="%SWFPATH%/images/avant-garde/20IMG_1484.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs1" url="%SWFPATH%/images/Avant-garde/20IMG_1484.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="251.168424" atv="-1.102759" distorted="true" rx="-1.25" ry="47.75" rz="-0.477016" width="1120" height="768" scale="0.159282" 
 	         />
 
-		<hotspot name="hs2" url="%SWFPATH%/images/avant-garde/20IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs2" url="%SWFPATH%/images/Avant-garde/20IMG_1486.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="264.09359" atv="8.317559" distorted="true" rx="9.25" ry="29.75" rz="0.809791" width="416" height="768" scale="0.064853" 
 	         />
 
-		<hotspot name="hs4" url="%SWFPATH%/images/avant-garde/21IMG_1487.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs4" url="%SWFPATH%/images/Avant-garde/21IMG_1487.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="-62.600674" atv="-1.239303" distorted="true" rx="-2.5" ry="0.75" rz="0.076006" width="1155" height="768" scale="0.257349" 
 	         />
 
-		<hotspot name="hs5" url="%SWFPATH%/images/avant-garde/22IMG_1488.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs5" url="%SWFPATH%/images/Avant-garde/22IMG_1488.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="-22.006298" atv="-1.289277" distorted="true" rx="-1.5" ry="47.75" rz="-0.133938" width="842" height="768" scale="0.147041" 
 	         />
 
-		<hotspot name="hs6" url="%SWFPATH%/images/avant-garde/22IMG_1489.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
+		<hotspot name="hs6" url="%SWFPATH%/images/Avant-garde/22IMG_1489.jpg" alpha="0.0" style="flyoutimage" zorder="4" 
 	         ath="-25.060282" atv="9.988737" distorted="true" rx="12.0" ry="49.25" rz="-0.184124" width="658" height="768" scale="0.051534" 
 	         />
 
