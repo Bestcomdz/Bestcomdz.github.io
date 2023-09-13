@@ -1995,8 +1995,7 @@
 	
 		<hotspot name="v002"
 			 style="flyoutvideo"
-			 url="%SWFPATH%/plugins/videoplayer.swf" 
-			 alturl="%SWFPATH%/plugins/videoplayer.js" 
+			 url="%SWFPATH%/plugins/videoplayer.js" 
 			 videourl="%SWFPATH%/videos/Biskra films V2.mp4"
 			 posterurl="%SWFPATH%/videos/Biskra films V2.png"
 	         ath="240.368113" atv="-2.156135" distorted="true" rx="-2.5" ry="-2.0" rz="0.026169" width="720" height="576" scale="0.621411" 
@@ -2024,7 +2023,6 @@
 		
 		<!-- load the soundinterface plugin -->
 		<plugin name="soundinterface"
-				url.flash="%SWFPATH%/plugins/soundinterface.swf"
 				url.html5="%SWFPATH%/plugins/soundinterface.js"
 				rootpath=""
 				preload="true"
@@ -2032,7 +2030,7 @@
 				/>
 			
 		<events name="lobby audio"
-	        onloadcomplete="stopallsounds();wait(1.0);playsound(son, videos/biskra son.mp3, 1, null);"
+	        onloadcomplete="stopallsounds();wait(1.0);playsound(son, videos/Biskra Son.mp3, 1, null);"
 	        />
 		<view hlookat="99.0" vlookat="0.0" fovtype="MFOV" fov="120" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
