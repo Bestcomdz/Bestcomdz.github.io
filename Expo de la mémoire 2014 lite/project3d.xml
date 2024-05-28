@@ -1,0 +1,74 @@
+<krpano modelPath="%VIEWER%/assets/model3d/model.obj">
+  <display depthmaprendermode="3dmodel" />
+  <display depthbuffer="true" />
+  <!-- <display depthmaprendermode="depthmap" /> -->
+  <!-- 
+    
+    depthmaprendermode:
+	    - "depthmap" (default)
+            - generates an internal 24bit depthmap image
+            - fastest to load
+            - no "holes", everything is "connected/filled"
+            - not perfectly accurate
+	    - "3dmodel"
+            - uses the 3d model and maps the pano onto it
+            - slower because the 3d model internally needs to get sub-divided into many small triangles
+    -->
+  <!--  PANORAMA POSITIONS  -->
+  <style name="everpano3d_01" ox="1.000" oy="-100" oz="325.952" linkedscene="scene_01" />
+  <style name="everpano3d_02" ox="-171.841" oy="-100" oz="716.026" linkedscene="scene_02" />
+  <style name="everpano3d_03" ox="805.385" oy="-100" oz="499.22" linkedscene="scene_03" />
+  <style name="everpano3d_03a" ox="1210.243" oy="-100" oz="540.548" linkedscene="scene_03a" />
+  <!--  SCENES  -->
+  <!-- model3d -->
+  <scene name="scene_model3d" autoload="true" type="model3d" onstart="initial_model3d_view()" thumburl="%VIEWER%/assets/model3d/snapshot.jpg" thumbSize="250,127">
+    <view hlookat="0" vlookat="0" fov="120.00"  fovtype="MFOV" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <preview url="%VIEWER%/assets/model3d/preview.jpg" />
+    <image ev_x="494.447" ev_y="-770.712" ev_z="1743.521" hdir="124.325" vdir="12.753" fov="90" >
+      <sphere url="%VIEWER%/assets/model3d/texture.png" />
+      <depthmap url="%VIEWER%/assets/model3d/model.obj" rendermode="3dmodel" scale="1" textured="true" cull="front"  waitforload="true" />
+    </image>
+  </scene>
+  <!--  01  -->
+  <scene name="scene_01" type="panorama" menu="true" model="true" title="01" alt="100" thumburl="assets\panos\01.tiles\snapshot.jpg"  >
+    <view hlookat="0" vlookat="0" fov="120.00"  fovtype="MFOV" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <preview type="CUBESTRIP" url="%VIEWER%\assets\panos\01.tiles\preview.jpg" />
+    <image style="everpano3D_01">
+      <cube url="%VIEWER%\assets\panos\01.tiles\pano_%s.jpg" />
+      <depthmap  url="%VIEWER%/assets/model3d/model.obj" center="325.952,100.000,-1" enabled="true" scale="1.0" />
+    </image>
+  </scene>
+  <!--  02  -->
+  <scene name="scene_02" type="panorama" menu="false" model="true" title="02" alt="100" thumburl="assets\panos\02.tiles\snapshot.jpg"  >
+    <view hlookat="0" vlookat="0" fov="120.00"  fovtype="MFOV" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <preview type="CUBESTRIP" url="%VIEWER%\assets\panos\02.tiles\preview.jpg" />
+    <image style="everpano3D_02">
+      <cube url="%VIEWER%\assets\panos\02.tiles\pano_%s.jpg" />
+      <depthmap  url="%VIEWER%/assets/model3d/model.obj" center="716.026,100.000,171.841" enabled="true" scale="1.0" />
+    </image>
+  </scene>
+  <!--  03  -->
+  <scene name="scene_03" type="panorama" menu="true" model="true" title="03" alt="100" thumburl="assets\panos\03.tiles\snapshot.jpg"  >
+    <view hlookat="0" vlookat="0" fov="120.00"  fovtype="MFOV" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <preview type="CUBESTRIP" url="%VIEWER%\assets\panos\03.tiles\preview.jpg" />
+    <image style="everpano3D_03">
+      <cube url="%VIEWER%\assets\panos\03.tiles\pano_%s.jpg" />
+      <depthmap  url="%VIEWER%/assets/model3d/model.obj" center="499.22,100.000,-805.385" enabled="true" scale="1.0" />
+    </image>
+  </scene>
+  <!--  03a  -->
+  <scene name="scene_03a" type="panorama" menu="false" model="true" title="03a" alt="100" thumburl="assets\panos\03a.tiles\snapshot.jpg"  >
+    <view hlookat="0" vlookat="0" fov="120.00"  fovtype="MFOV" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <preview type="CUBESTRIP" url="%VIEWER%\assets\panos\03a.tiles\preview.jpg" />
+    <image style="everpano3D_03a">
+      <cube url="%VIEWER%\assets\panos\03a.tiles\pano_%s.jpg" />
+      <depthmap  url="%VIEWER%/assets/model3d/model.obj" center="540.548,100.000,-1210.243" enabled="true" scale="1.0" />
+    </image>
+  </scene>
+</krpano>
+
+
+
+
+
+
